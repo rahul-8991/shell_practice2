@@ -3,6 +3,6 @@
 for i in {1..15}
 do
 
-    echo $id
+    echo $i
 
 done
